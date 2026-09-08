@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+.venv/
+database/chroma_db/*
+!database/chroma_db/.gitkeep
+uploads/*
+!uploads/.gitkeep
+*.log
+.DS_Store
+instance/
